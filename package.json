@@ -1,0 +1,8 @@
+{
+  "name": "transparency-browser-single-file",
+  "private": true,
+  "description": "Single-file Transparency Browser shell",
+  "scripts": {
+    "start": "echo 'Open public/index.html with file:// protocol'"
+  }
+}
